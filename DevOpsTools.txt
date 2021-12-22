@@ -1,6 +1,10 @@
 GitHub
 Docker
 Kubernetes
-Premethues 
-
+Premethues
+Appsumo
+Nexus
+JFrog
+Drone
+Done the changes!
 Done with tools!
