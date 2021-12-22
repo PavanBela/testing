@@ -2,3 +2,7 @@ GitHub
 Docker
 Kubernetes
 Premethues 
+Appsumo
+Nexus
+JFrog
+Drone
